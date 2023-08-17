@@ -1,0 +1,54 @@
+
+.fruit-image-container{
+    max-height: 510px;
+    max-width: 560px;
+   
+
+   
+}
+.fruit-image{
+    height: 510px;
+    width: 560px;
+    border-radius: 100%;
+    
+   
+}
+
+.fruit-image-container{
+     
+}
+
+.entire-fruit-carosel{
+    top: 180px;
+   position: absolute;
+   left: -220px;
+}
+
+@media only screen and (max-width: 992px) {
+    .entire-fruit-carosel{
+        display: none !important;
+    }
+    .fruit-image-container{
+        display: none !important;
+       
+    }
+    .fruit-image{
+        display: none !important;
+    }
+    p{
+        font-size: 10px;
+        text-align: center !important;
+        
+    }
+    .logo-image-container{
+        height: 80px !important;
+    }
+    .logo-image{
+        height: 80px !important;
+    }
+    .coke-carousel{
+    
+        height: 600px !important;
+        width: 200px !important;
+    }
+}

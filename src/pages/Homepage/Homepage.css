@@ -1,0 +1,33 @@
+.coke-header-logo{
+  height: 60px;
+  margin: 10px 0 0 0;
+}
+.fanta{
+    transition: 1s;
+  background-color: #fdb914;
+}
+
+.coke{
+  background-color: #ed1c24;
+} 
+/* .coke{
+   
+    animation: coke-to-fanta 1s ease-in both ;
+  background:linear-gradient(#110b0b,#6e1010)
+} */
+.sprite{
+    background-color: #39783a;
+    transition: 1s;
+  }
+
+  .next{
+    
+    padding:18px 14px !important;
+    border-radius: 100% !important;
+   
+    
+  }
+.coke-nav{
+   background: transparent !important;
+    padding: 0 !important;
+}

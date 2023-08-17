@@ -1,0 +1,17 @@
+.logo-image-container{
+    height: 150px;
+}
+.logo-image{
+    height: 150px;
+}
+.view-button{
+    background-color: transparent;
+    border: none;
+    color: #fff;
+}
+.view-button:hover{
+    background-color: transparent;
+    outline: 1px solid #fff;
+    color: #fff;
+
+}
